@@ -9,4 +9,4 @@ spec:
   - name: demo-container
     image: nginx:latest
     ports:
-      - containerPort: 8099
+      - containerPort: 9090
