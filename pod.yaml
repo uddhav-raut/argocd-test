@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata: 
   name: loopr-pod1
-  namespace: gitlab-agent-agent2
+  namespace: argocd
   labels:
     app: web
 spec:
